@@ -1,0 +1,7 @@
+*.scssc
+node_modules/*
+dev/css/*.css
+**/dist
+secrets.json
+emails/*
+*.css
