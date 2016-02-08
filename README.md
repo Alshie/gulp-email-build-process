@@ -64,5 +64,7 @@ Removes the `dist` folder to start a fresh build.
 ## Caveats
 You will probably want to use images in your html that are hosted online with a full url - the original version of this process from which this is derived moved all images from the images folder to a CDN but it seemed weirdly specific to include here.
 
+I've only tested this on OSX I'm afraid, no idea if it will work on Windows.
+
 ## Todo
 Write better, more thorough documentation.
