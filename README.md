@@ -28,7 +28,7 @@ Prepares your email for sending by running `clean`, `sass`, `images`, `uncss`, `
 
 `gulp litmus —email my-project-folder`
 
-Passes your final output html from `dist` folder to [Litmus](https://litmus.com/) via the Litmus API. You will need to setup your accound details in secrets.json.
+Passes your final output html from `dist` folder to [Litmus](https://litmus.com/) via the Litmus API. You will need to setup your account details in secrets.json.
 
 ```
   "litmus": {
