@@ -4,13 +4,17 @@ A set of [gulp](http://gulpjs.com/) tasks to simplify building HTML emails.
 
 ## Install
 
-1. Install node.js
-2. Downlaod this project and run npm install from project folder
-3. You may need to have xcode command line tools installed for image minification to install correctly.
+1. Install node.js - the easiest way is probably from the [node.js website](https://nodejs.org/en/)
+2. Download this project and run `npm install` from project folder
+3. You may need to have xcode command line tools installed for image minification to install correctly on OSX.
+
+These can be installed without the need for installing the full xcode by running the following command in your terminal.
+
+`xcode-select --install`
 
 ## Usage
 
-Use from the terminal by running gulp tasks with your project folder passed 
+Use from the terminal by running gulp tasks with your project folder passed as the --email argument
 
 `gulp serve —email my-project-folder`
 
@@ -68,3 +72,5 @@ I've only tested this on OSX I'm afraid, no idea if it will work on Windows.
 
 ## Todo
 Write better, more thorough documentation.
+Add ability to send the email to any address.
+Add some generic ftp capability?
