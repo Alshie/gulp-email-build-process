@@ -4,9 +4,10 @@ A set of [gulp](http://gulpjs.com/) tasks to simplify building HTML emails.
 
 ## Install
 
-1. Install node.js - the easiest way is probably from the [node.js website](https://nodejs.org/en/)
-2. Download this project and run `npm install` from project folder
-3. You may need to have xcode command line tools installed for image minification to install correctly on OSX.
+1. Install node.js - the easiest way is probably from the [node.js website](https://nodejs.org/en/) however I prefer using [Homebrew](http://brew.sh/)
+2. Install gulp globally `npm install --global gulp-cli` in your terminal.
+3. Download this project and run `npm install` from project folder
+4. You may need to have xcode command line tools installed for image minification to install correctly on OSX.
 
 These can be installed without the need for installing the full xcode by running the following command in your terminal.
 
