@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/5pm/5pm-email-build-process#readme",
   "devDependencies": {
-    "browser-sync": "^2.11.1",
+    "browser-sync": "^2.11.2",
     "del": "^2.2.0",
     "gulp": "^3.9.1",
     "gulp-autoprefixer": "^3.1.0",
@@ -31,11 +31,10 @@
     "gulp-replace": "^0.5.4",
     "gulp-sass": "^2.1.1",
     "gulp-sourcemaps": "^1.5.2",
-    "gulp-uncss": "^1.0.4",
+    "gulp-uncss": "^1.0.5",
     "gulp-util": "^3.0.6",
-    "imagemin-pngquant": "^4.2.0",
+    "imagemin-pngquant": "^4.2.2",
     "minimist": "^1.2.0",
-    "node-notifier": "^4.4.0",
     "require-dir": "^0.3.0",
     "run-sequence": "^1.1.5"
   }
