@@ -1,3 +1,5 @@
+[![Known Vulnerabilities](https://snyk.io/test/github/Alshie/gulp-email-build-process/badge.svg)](https://snyk.io/test/github/Alshie/gulp-email-build-process)
+
 # Gulp Email build Process
 
 A set of [gulp](http://gulpjs.com/) tasks to simplify building HTML emails.
